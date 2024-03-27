@@ -1,0 +1,55 @@
+# Blender MTL File: 'Cafe_Food.blend'
+# Material Count: 5
+
+newmtl Cappuccino
+Ns 928.595051
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.320000 D:\\Dropbox\\Work\\Work_T\\2022_iljoo\\00_Project\\099_제안서\\006_AR_Cafe\\00_Last\\Tex_Origin\\cappuccino.Normal.png
+map_Kd D:\\Dropbox\\Work\\Work_T\\2022_iljoo\\00_Project\\099_제안서\\006_AR_Cafe\\00_Last\\Tex_Origin\\cappuccino.png
+map_Ns D:\\Dropbox\\Work\\Work_T\\2022_iljoo\\00_Project\\099_제안서\\006_AR_Cafe\\00_Last\\Tex_Origin\\Cappuccino.Roughness.png
+
+newmtl Cappuccino_Cup
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cappuccino_Marshmallow
+Ns 138.925621
+Ka 1.000000 1.000000 1.000000
+Kd 0.868884 0.813237 0.597465
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.940000 D:\\Dropbox\\Work\\Work_T\\2022_iljoo\\00_Project\\099_제안서\\006_AR_Cafe\\00_Last\\Tex_Origin\\Marshmallow.Normal.png
+map_Kd D:\\Dropbox\\Work\\Work_T\\2022_iljoo\\00_Project\\099_제안서\\006_AR_Cafe\\00_Last\\Tex_Origin\\Marshmallow.png
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl SilverPolished
+Ns 809.999997
+Ka 0.850000 0.850000 0.850000
+Kd 0.442168 0.502638 0.517333
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
