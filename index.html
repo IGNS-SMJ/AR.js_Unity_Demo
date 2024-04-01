@@ -101,6 +101,9 @@ if (markerFound == 1) {
 <a-asset-item id="Model_Asset_obj_0" src="models/Cafe_Cappuccino.obj"></a-asset-item>
 <a-asset-item id="Model_Asset_mtl_0" src="models/Cafe_Cappuccino.mtl"></a-asset-item>
 
+<a-asset-item id="Model_Asset_obj_1" src="models/Text.obj"></a-asset-item>
+<a-asset-item id="Model_Asset_mtl_1" src="models/Text.mtl"></a-asset-item>
+
 </a-assets>
 <!-- END: Unity Compiled Assets -->
 <!-- BEGIN: Add Image Target (marker) -->
@@ -110,15 +113,10 @@ if (markerFound == 1) {
 <!-- BEGIN: Unity Compiled Objects -->
 <a-entity obj-model="obj: #Model_Asset_obj_0; mtl: #Model_Asset_mtl_0" scale="3 3 3" class="intersectable" position="0 0 0" rotation="0 0 0" color="#CCCCCC" 
 ></a-entity>
+<a-entity obj-model="obj: #Model_Asset_obj_1; mtl: #Model_Asset_mtl_1" scale="0.1 0.1 0.1" class="intersectable" position="-0.15 0.325 0" rotation="0 0 0" color="#E7E7E7" 
+></a-entity>
 <!-- END: Unity Compiled Objects -->
-<!-- Text entity to display -->
-<a-text
-value="this is Cappuccino"
-position="0 0 0"
-scale="2 2 2"
-text-align=center
-color="black"
-></a-text>
+
 <!-- BEGIN: Bottom HTML -->
 </a-marker>
 <a-entity camera></a-entity>
